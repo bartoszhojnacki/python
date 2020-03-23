@@ -1,0 +1,1 @@
+Functions automating some typical text operations, incl: offer creation, candidates' recommendation as interactive program
